@@ -10,5 +10,5 @@ if x == 1:
 elif x == 2:
   print("You win")
 else:
-  os.open(.AdolfHitlerBakery.txt)
+  os.open(./AdolfHitlerBakery.txt)
 
